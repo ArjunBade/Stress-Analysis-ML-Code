@@ -33,8 +33,11 @@ This project aims to analyze stress levels among higher education students and p
 ## Tech Stack
 
 **Language** - Python 
+
 **Libraries** - Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn 
+
 **Algorithm Types** - Clustering (Unsupervised Learning) 
+
 **Interface** - Jupyter Notebook 
 
 ---
